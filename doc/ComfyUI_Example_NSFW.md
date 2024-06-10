@@ -1,7 +1,118 @@
 ---
 created: '2024-06-08 '
 ---
+# 
+url:
+img:![]()
+model：
+workflow：
+- [](../workflow/)
+## MyGEN
+# 
+success
+url:[Image posted by MaxOne69](https://civitai.com/images/14520037)
+img:![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/02c94cd0-8060-4bd5-b39f-49113ad5db0c/width=832,quality=90/79C523BB5C49B8D453787709A15B10F4881B05DC22BD50F27C82CC257EB016AF.jpeg)
+model：
+- [CyberRealistic Negative - v1.0 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/77976/cyberrealistic-negative?modelVersionId=82745)
+- [Pony PDXL Negative Embeddings - High Quality V2 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/332646/pony-pdxl-negative-embeddings?modelVersionId=509253)
+- [Rain-Style - v1 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/467500/rain-style?modelVersionId=520186)
+- [DucHaiten-Pony-XL (no-score) - pony-no-score\_v4.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/376450/duchaiten-pony-xl-no-score?modelVersionId=531417)
+- 
+workflow：
+- [](../workflow/DucHaitenPonyXL1.json)
+## MyGEN
+# 夜，露出，天台，性感，反差
+success
+#majicMIXreallistic 
+url：[Image posted by zeemeew728](https://civitai.com/images/1510171)
+img:![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6efc9aca-373e-4d36-9771-0d4ec0ed70d6/width=1024, quality=90/10754-3239751339-Ultra-realistic_8 k_CG, masterpiece, best_quality, (photorealistic_1.4), absurdres, RAW_photo, realistic, film_grain, ((depth_of_field)),. jpeg)
+model：
+- - [majicMIX realistic 麦橘写实 - v7 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/43331/majicmix-realistic?modelVersionId=176425)
+- 真实胶片
+- 拍立得 ins
+workflow：
+- [](../workflow/majicMIXreallistic8.json)
+## MyGEN
+# 卧室，蕾丝内裤，没带奶罩，是自由的感觉
+success
+#majicMIXreallistic 
+url:[Image posted by suihou827](https://civitai.com/images/10897646)
+img:![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ea76d32b-7b0c-4024-9849-b99852e6daaf/width=1728,quality=90/00088-2996294812.jpeg)
+model：
+- [EnvyBetterHands LoCon - beta2 | Stable Diffusion LyCORIS | Civitai](https://civitai.com/models/47085/envybetterhands-locon?modelVersionId=55199)
+- [PicXer - real | Stable Diffusion LoRA | Civitai](https://civitai.com/models/273909/picxer?modelVersionId=308719)
+- [zyd232's Chinese Girl LORA - v4.2 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/13021/zyd232s-chinese-girl-lora?modelVersionId=78057)
+- [majicMIX realistic 麦橘写实 - v7 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/43331/majicmix-realistic?modelVersionId=176425)
+- [extremely detailed (no trigger) - sliders.ntcai.xyz - v2.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/229213/extremely-detailed-no-trigger-slidersntcaixyz?modelVersionId=383563)
+- 
+workflow：
+- [](../workflow/majicMIXreallistic6.json)
+## MyGEN
+# 女同，make love, 艺术
+success
+#PonyDiffusionV6 
+url:[Image posted by linkin911](https://civitai.com/images/8084739)
+img:![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f3c76975-b25e-42ed-a8fe-98d2348ace1b/width=832,quality=90/FD7B37F7995A6E518D374EFD8388AB4DB7A463FDBCB3AE973B27C8B9EEE663C7.jpeg)
+model：
+- [Cutesexyrobutts Style - XL-Pony | Stable Diffusion LoRA | Civitai](https://civitai.com/models/11161/cutesexyrobutts-style?modelVersionId=379995)
+- [Hand Detail XL Lora - v2.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/260852/hand-detail-xl-lora?modelVersionId=294259)
+- [Pony Diffusion V6 XL - V6 (start with this one) | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/257749/pony-diffusion-v6-xl?modelVersionId=290640)
+- 
+workflow：
+- [](../workflow/PonyDiffusionV67.json)
+## MyGEN
+# 捆绑，
+success
+#majicMIXreallistic 
+url：[Image posted by zeemeew728](https://civitai.com/images/1378268)
+img:![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/27e5d246-f3d3-4ccf-8b98-c421212e3a2d/width=1024,quality=90/10002-3173345044-Ultra-realistic_8k_CG,masterpiece,best_quality,(photorealistic_1.4)
+model：
+- [Reverse Suspended Congress - RSCongressLoRA | Stable Diffusion LoRA | Civitai](https://civitai.com/models/5067/reverse-suspended-congress)
+- [LEOSAM's Instant photo 拍立得/Polaroid LoRA & LoHA - InspX Borderless Version | Stable Diffusion LoRA | Civitai](https://civitai.com/models/52652/leosams-instant-photo-polaroid-lora-and-loha)
+- [tianfeng\_filmgirls 胶片质地女孩 - v3.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/91113?modelVersionId=97126)
+- [majicMIX realistic 麦橘写实 - v7 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/43331?modelVersionId=97126)
+- 
+workflow：
+- [](../workflow/majicMIXreallistic5.json)
+## MyGEN
+
+# 动漫，裸体艺术， 小河边
+success
+#PonyDiffusionV6 
+url：[Image posted by screwball808](https://civitai.com/images/12486936)
+img:![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b737c6b0-0935-4a51-b817-8b64621761f8/width=832,quality=90/5A7C5D1FA7941278A19B838D28AD4FED8D9FE28681294C8509143FF8C0B5E377.jpeg)
+model：
+- [civitai.com/models/352581/vixons-pony-styles?modelVersionId=491364](https://civitai.com/models/352581/vixons-pony-styles?modelVersionId=491364)
+- [civitai.com/models/359088/nai-style-for-pony?modelVersionId=447709](https://civitai.com/models/359088/nai-style-for-pony?modelVersionId=447709)
+- [civitai.com/models/264290/styles-for-pony-diffusion-v6-xl-not-artists-styles?modelVersionId=333607](https://civitai.com/models/264290/styles-for-pony-diffusion-v6-xl-not-artists-styles?modelVersionId=333607)
+- [civitai.com/models/257749/pony-diffusion-v6-xl?modelVersionId=290640](https://civitai.com/models/257749/pony-diffusion-v6-xl?modelVersionId=290640)
+- [civitai.com/models/212532/all-disney-princess-xl-lora-model-from-ralph-breaks-the-internet?modelVersionId=244808](https://civitai.com/models/212532/all-disney-princess-xl-lora-model-from-ralph-breaks-the-internet?modelVersionId=244808)
+- [civitai.com/models/122359/detail-tweaker-xl?modelVersionId=135867](https://civitai.com/models/122359/detail-tweaker-xl?modelVersionId=135867)
+- 
+workflow：
+- [](../workflow/PonyDiffusionV64.json)
+## MyGEN
+
+# 丛林，女孩，性感
+success
+#PonyDiffusionV6
+
+
+url：[Image posted by Ninjada](https://civitai.com/images/14452591)
+img:![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/76f3214e-f5ee-4eda-a53a-732608a28b22/width=832,quality=90/DF39682D1286EFC06A0019BD29D627708DE9930F2D9A32521A053E0C1C757263.jpeg)
+model：
+- [Pony Diffusion V6 XL - V6 (start with this one) | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/257749/pony-diffusion-v6-xl?modelVersionId=290640)
+- [civitai.com/models/341353/expressiveh-hentai-lora-style?modelVersionId=382152](https://civitai.com/models/341353/expressiveh-hentai-lora-style?modelVersionId=382152)
+- [civitai.com/models/393101/envy-pony-pretty-eyes-01-pretty-anime-eyes?modelVersionId=438481](https://civitai.com/models/393101/envy-pony-pretty-eyes-01-pretty-anime-eyes?modelVersionId=438481)
+- [civitai.com/models/454172/stylepony-relsm-semi-realism?modelVersionId=505635](https://civitai.com/models/454172/stylepony-relsm-semi-realism?modelVersionId=505635)
+- [civitai.com/models/470073/popyays-epic-fantasy-style-or-pony?modelVersionId=522995](https://civitai.com/models/470073/popyays-epic-fantasy-style-or-pony?modelVersionId=522995)
+workflow：
+- [](../workflow/PonyDiffusionV63.json)
+## MyGEN
+
+
 # 少女, 山上, 露出, 热爱大自然
+success
 #majicMIXreallistic
 _逛 C 站的时候看到的一张图片，不错,  决定复刻_
 - url：[Image posted by xiaoxiaohuiji](https://civitai.com/images/10880329)
@@ -42,6 +153,7 @@ workflow:[](../workflow/majicMIXreallistic1.json)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/48a52512-f666-46ef-9174-3a59e301de00/width=1800,quality=90/ComfyUI_temp_ymrbh_00003_.jpeg)
 
 # 女孩，裸体，水彩画，艺术
+success
 #majicMIXreallistic 
 url：[Image posted by weilonggs](https://civitai.com/images/1306068)
 img：![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0cd7992e-6da7-45af-9aba-867f7c470aed/width=1024/01745-1815530824-(oil%20 painting_1.5),%20 (NSFW_1.2),%201 girl,%20 feature,%20 pureerosface_v 1,%20%20 Ambilight,%20%20 slender%20 waist,%20%20 (Lying_1.2),%20 (blue%20 tattoo,%20 Paint%20 p. jpeg)
@@ -64,6 +176,7 @@ workflow:[](../workflow/majicMIXreallistic3.json)
 [Fetching Title#hn22](https://civitai.com/models/88207)
 [chunmomoLora - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/43305?modelVersionId=47941)
 # 户外，露出，女孩，眼睛
+success
 #majicMIXreallistic 
 url：[Image posted by Bei3](https://civitai.com/images/1230942) 
 img：![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/98163e11-ba1a-4842-892c-56238df03465/width=1024/01688-97117974-1girl,,%20 pubic%20 hair,%20 (looking%20 at%20 viewer,%20 light%20 smile,%20),%20 brown%20 hair,%20 brown%20 eyes,%20%20 long%20 hair,%20 hair_flying,%20 Fluttering%20 hair,%20 flying. jpeg)
@@ -79,6 +192,7 @@ workflow：[](../workflow/majicMIXreallistic4.json)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1c5b8dfa-e743-4f1d-8c10-f87317856789/width=1536,quality=90/ComfyUI_temp_csarg_00001_.jpeg)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b9c71c58-4ca2-4f42-a84a-0d0b6c509627/width=1800,quality=90/ComfyUI_temp_csarg_00002_.jpeg)
 # 广场，露出，女孩
+success
 #chilloutmix
 rul：[Image posted by 3260431574266](https://civitai.com/images/363986)
 img：![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1fadebda-dfa9-410a-5776-62e578d8a200/width=512/363986.jpeg)
@@ -92,6 +206,7 @@ workflow：[](../workflow/chilloutmix.json)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1f979316-3038-421c-b04f-9d3e7b12cd1a/width=2048/ComfyUI_temp_pvtlk_00001_.jpeg)
 没有用 lora 就是这样
 # 户外，篮球场，露出，女孩
+success
 #chilloutmix 
 
 url： [Image posted by AssWeCan\_2023](https://civitai.com/images/347646)
@@ -112,6 +227,7 @@ workflow：[](../workflow/chilloutmix1.json)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c56d7c7a-4058-43fc-9438-24d657e1b1a4/width=2048/d38a34400e4663bd40dcd740457d73cbe5cc7a088ed4aee9059d2c7b29aaad2a.jpeg)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/907068ed-02f7-43fa-8102-c45d80442e99/width=2048/2b9cd603969f511f7bfab7dc1e8baab12f54cf09cac53c9cba43332fdb8bd798.jpeg)
 # 裸体，私房，女孩，床
+success
 #chilloutmix 
 url：[Image posted by su943515688459](https://civitai.com/images/295538)
 img：
@@ -128,6 +244,7 @@ img：
 workflow：[](../workflow/chilloutmix2.json)
 ## Mygen
 # make love
+success
 #PonyDiffusionV6
 url：[Image posted by Pharo](https://civitai.com/images/9232495) 
 img：![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/442066a0-ca11-463c-b83d-27594e87b7d5/width=832/58143DBBDDD3AE53DC2CC5557521912B856EFD3B004776B5501986903BD3C73F.jpeg)
@@ -146,6 +263,8 @@ workflow：[](../workflow/PonyDiffusionV 6. json)
 [Image post by kefu51252770 | Civitai](https://civitai.com/posts/2932445)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/da6ef69e-9d69-4382-943b-43699e841e09/width=700/ComfyUI_temp_rdkek_00003_.jpeg)
 # 女孩，床上，荷尔蒙，欲望
+success
+#PonyDiffusionV6 
 url：[Fetching Title#80du](https://civitai.com/images/11351158) 
 img：![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c531b7ee-d363-4e1a-86bd-2337e05fe474/width=832/F62E4A05B6EC67ACA5B9F89510D19D90BE764E12E858607A64FC81FBC5CD4FBE.jpeg)
 2024-05-22_ 20:29
@@ -161,6 +280,7 @@ workflow：[](../workflow/PonyDiffusionV61. json)
 [Image post by kefu51252770 | Civitai](https://civitai.com/posts/2933788)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/208712c8-c901-47b3-8496-2b7178c99b0d/width=1800,quality=90/ComfyUI_Example_11_2_00003_.jpeg)
 # 自慰，女孩，卧室，床上
+success
 #mengxmixfantasy
 - url：[Fetching Title#txb4](https://civitai.com/images/2500154)
 - pic:![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0566c98b-d84f-4c28-82ab-33d899833d9e/width=1024/00006-1727106929.jpeg)
