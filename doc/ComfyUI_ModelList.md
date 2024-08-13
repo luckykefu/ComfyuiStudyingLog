@@ -1,3 +1,6 @@
+---
+created: '2024-06-05 '
+---
 # 模型列表
 - 模型：[CyberRealistic - v4.2 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/15003/cyberrealistic)
 - 预览：![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9b05f5a3-e3fc-4f0e-9346-c9fdda133db8/width=450/CyberRealistic_42_9.jpeg)
