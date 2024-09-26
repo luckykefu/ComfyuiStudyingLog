@@ -1,5 +1,5 @@
 ---
-created: '2024-06-05 '
+created: '1970-01-01 '
 ---
 
 # ComfyUI Installation
@@ -14,9 +14,8 @@ git clone https://github.com/comfyanonymous/ComfyUI.git
 ## Create Conda Environment
 
 ```bash
-conda create -n comfyui
+conda create -n comfyui python -y
 conda activate comfyui
-conda install python
 
 ```
 
@@ -25,6 +24,7 @@ conda install python
 ```bash
 cd ComfyUI
 pip install -r requirements.txt
+
 # or if you have a slow internet connection, you can use the following command to install requirements from a mirror site
 pip install -r requirements.txt -i http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com
 
@@ -86,7 +86,7 @@ _现在是按装好了，但是不能用，因为模型文件还没有下载。_
 ```sh
 # git clone <repository-url> custom_nodes
 cd custom_nodes
-git clone https://github.com/ltdrdata/ComfyUI-Manager.git 
+git clone https://github.com/ltdrdata/ComfyUI-Manager.git
 
 # AIGODLIKE-ComfyUI-Translation  汉化
 # ControlNet  
@@ -146,7 +146,6 @@ git clone https://github.com/ltdrdata/ComfyUI-Manager.git
 		- karras：
 - denoise
     - 初始噪声值
-	
 
 ## Vae
 
