@@ -1,10 +1,8 @@
----
-created: '2024-06-05 '
----
 # 模型列表
+
 - 模型：[CyberRealistic - v4.2 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/15003/cyberrealistic)
 - 预览：![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9b05f5a3-e3fc-4f0e-9346-c9fdda133db8/width=450/CyberRealistic_42_9.jpeg)
-- 模型：[Dark Sushi Mix 大颗寿司Mix - 2.25D | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/24779/dark-sushi-mix-mix)
+- 模型：[Dark Sushi Mix 大颗寿司 Mix - 2.25D | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/24779/dark-sushi-mix-mix)
 - 预览：![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7dda32d5-863c-437c-9d78-9f83570350c1/original=true/18231-1931785963-masterpiece,)
 - 模型：[dreamshaper_8](https://civitai.com/api/download/models/128713)
 - 预览：![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dd9b038c-bd15-43ab-86ab-66e145ad7ff2/width=450/1777041.jpeg)

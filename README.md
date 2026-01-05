@@ -1,6 +1,3 @@
----
-created: '1970-01-01 '
----
 <header>
 
 <!--
@@ -22,10 +19,13 @@ _Stable Diffision 的一个 UI ._
   Define terms and link to docs.github.com.
   Historic note: previous version checked the homepage content was not empty.
 -->
+
 ### 为什么网上教程那么多还要写
+
 - 我看不太懂
 
 - 我想用自己的学习方法
+
   - 从使用的步骤开始学习
 
 - 我想通过表达来测试自己的学习效果

@@ -1,7 +1,3 @@
----
-created: '2024-06-08 '
----
-
 #
 
 state:
@@ -406,7 +402,7 @@ url:[civitai.com/images/2450264](https://civitai.com/images/2450264)
 model:
 
 - [MeinaMix - Meina V11 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/7240/meinamix?modelVersionId=119057)
-- [bad\_prompt Negative Embedding - bad\_prompt\_version2 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/55700/badprompt-negative-embedding?modelVersionId=60095)
+- [bad_prompt Negative Embedding - bad_prompt_version2 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/55700/badprompt-negative-embedding?modelVersionId=60095)
 - [Deep Negative V1.x - V1 75T | Stable Diffusion Embedding | Civitai](https://civitai.com/models/4629/deep-negative-v1x?modelVersionId=5637)
 
 workflow: [workflow](../workflow/meinamix.json)
@@ -430,7 +426,7 @@ model:
 - [CyberRealistic Negative - v1.0 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/77976/cyberrealistic-negative?modelVersionId=82745)
 - [Pony PDXL Negative Embeddings - High Quality V2 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/332646/pony-pdxl-negative-embeddings?modelVersionId=509253)
 - [Rain-Style - v1 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/467500/rain-style?modelVersionId=520186)
-- [DucHaiten-Pony-XL (no-score) - pony-no-score\_v4.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/376450/duchaiten-pony-xl-no-score?modelVersionId=531417)
+- [DucHaiten-Pony-XL (no-score) - pony-no-score_v4.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/376450/duchaiten-pony-xl-no-score?modelVersionId=531417)
 
 workflow: [workflow](../workflow/DucHaitenPonyXL1.json)
 
@@ -520,7 +516,7 @@ model:
 
 - [Reverse Suspended Congress - RSCongressLoRA | Stable Diffusion LoRA | Civitai](https://civitai.com/models/5067/reverse-suspended-congress)
 - [LEOSAM's Instant photo 拍立得/Polaroid LoRA & LoHA - InspX Borderless Version | Stable Diffusion LoRA | Civitai](https://civitai.com/models/52652/leosams-instant-photo-polaroid-lora-and-loha)
-- [tianfeng\_filmgirls 胶片质地女孩 - v3.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/91113?modelVersionId=97126)
+- [tianfeng_filmgirls 胶片质地女孩 - v3.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/91113?modelVersionId=97126)
 - [majicMIX realistic 麦橘写实 - v7 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/43331?modelVersionId=97126)
 
 workflow: [workflow](../workflow/majicMIXreallistic5.json)
@@ -590,43 +586,43 @@ url:[Image posted by xiaoxiaohuiji](https://civitai.com/images/10880329)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/76f34435-346c-405b-b54e-3315fe33cd9a/original=true/00000-2576117923.jpeg)
 
-2024-06-09_ 21:19 原作已被作者删除
+2024-06-09\_ 21:19 原作已被作者删除
 
 下面是我的本地保存:![](../workflow/majicMIXreallistic1.jpeg)
 
 _果然性是人类第一动力_
 
 模型:  
-	- [epiCPhoto - epiCPhoto | Stable Diffusion Embedding | Civitai](https://civitai.com/models/195911/epicphoto?modelVersionId=220262)  
-	- [長乳locon / hanging breasts locon - v1 | Stable Diffusion LyCORIS | Civitai](https://civitai.com/models/16202/locon-hanging-breasts-locon?modelVersionId=19135)  
-	- [Add More Details - Detail Enhancer / Tweaker (细节调整) LoRA - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/82098/add-more-details-detail-enhancer-tweaker-lora?modelVersionId=87153)  
-	- [BadDream + UnrealisticDream (Negative Embeddings) - BadDream v1.0 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/72437/baddream-unrealisticdream-negative-embeddings?modelVersionId=77169)  
-	- [PicXer - real | Stable Diffusion LoRA | Civitai](https://civitai.com/models/273909/picxer?modelVersionId=308719)  
-	- [LCM-LoRA - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/198694/lcm-lora?modelVersionId=223551)  
-	- [CyberRealistic Revamp - v3.2 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/385039/cyberrealistic-revamp?modelVersionId=429696)  
-	- [breast size slider - offset | Stable Diffusion LoRA | Civitai](https://civitai.com/models/131864/breast-size-slider?modelVersionId=146600)
+ - [epiCPhoto - epiCPhoto | Stable Diffusion Embedding | Civitai](https://civitai.com/models/195911/epicphoto?modelVersionId=220262)  
+ - [長乳 locon / hanging breasts locon - v1 | Stable Diffusion LyCORIS | Civitai](https://civitai.com/models/16202/locon-hanging-breasts-locon?modelVersionId=19135)  
+ - [Add More Details - Detail Enhancer / Tweaker (细节调整) LoRA - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/82098/add-more-details-detail-enhancer-tweaker-lora?modelVersionId=87153)  
+ - [BadDream + UnrealisticDream (Negative Embeddings) - BadDream v1.0 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/72437/baddream-unrealisticdream-negative-embeddings?modelVersionId=77169)  
+ - [PicXer - real | Stable Diffusion LoRA | Civitai](https://civitai.com/models/273909/picxer?modelVersionId=308719)  
+ - [LCM-LoRA - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/198694/lcm-lora?modelVersionId=223551)  
+ - [CyberRealistic Revamp - v3.2 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/385039/cyberrealistic-revamp?modelVersionId=429696)  
+ - [breast size slider - offset | Stable Diffusion LoRA | Civitai](https://civitai.com/models/131864/breast-size-slider?modelVersionId=146600)
 
 workflow:[workflow](../workflow/majicMIXreallistic1.json)
 
 - 分析结果:
-	- 眼睛不自然，（他的 prompt 里包含很多 lora 我只下载他给出的两个 lora ，初步猜测可能是这个引起的 ）
-	- 清晰度不够，（没有使用 upscale 放大图片，可能是这个原因）
-	- 没有大白腿，（可能是没有使用 lora）
-	- 奶子下坠太厉害了，（可能是没有使用 lora）
+  - 眼睛不自然，（他的 prompt 里包含很多 lora 我只下载他给出的两个 lora ，初步猜测可能是这个引起的 ）
+  - 清晰度不够，（没有使用 upscale 放大图片，可能是这个原因）
+  - 没有大白腿，（可能是没有使用 lora）
+  - 奶子下坠太厉害了，（可能是没有使用 lora）
 - 改:
-	- 清晰度问题就是没有使用 upscale ，
-		- 加载 upscale，下载模型: 放在 `model/upscale_models`, vaedecode 节点后面插入: 图像 -- 放大 --- 图像通过模型放大。图像通过模型放大节点的放大模型连接到: 加载器 -- 放大模型加载器。
-	- 下载全部 lora, 还是多张图片都不理想，可以考虑为采样算法带 a, 不能完全复现图片。
-	- 眼睛有点古怪，可以看到虽然不能复现，但是可以增加眼睛或者面部 lora 改善这个情况，
-	- 多次生成都是这个动作姿势，可能是 vae 解码模型不一样
+  - 清晰度问题就是没有使用 upscale ，
+    - 加载 upscale，下载模型: 放在 `model/upscale_models`, vaedecode 节点后面插入: 图像 -- 放大 --- 图像通过模型放大。图像通过模型放大节点的放大模型连接到: 加载器 -- 放大模型加载器。
+  - 下载全部 lora, 还是多张图片都不理想，可以考虑为采样算法带 a, 不能完全复现图片。
+  - 眼睛有点古怪，可以看到虽然不能复现，但是可以增加眼睛或者面部 lora 改善这个情况，
+  - 多次生成都是这个动作姿势，可能是 vae 解码模型不一样
 
 总结:
 
 - 模型的选择是图片输出的主要来源，也是影响输出效果的关键因素。
 - 我在 c 站同样的参数是能够复现的，排除设备的影响，我选择的这个图片没有工作流参考，具体原因还不能确定。
 
-2024-05-20_ 19:08:[Image post by kefu51252770 | Civitai](https://civitai.com/posts/2883051)  
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f44b09e1-dced-4baa-ba98-25e761e0e5da/width=1800,quality=90/ComfyUI_temp_spjqu_00003_.jpeg)
+2024-05-20* 19:08:[Image post by kefu51252770 | Civitai](https://civitai.com/posts/2883051)  
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f44b09e1-dced-4baa-ba98-25e761e0e5da/width=1800,quality=90/ComfyUI_temp_spjqu_00003*.jpeg)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1c82a276-189b-4222-a43b-18be6519fac9/width=1800,quality=90/ComfyUI_temp_ymrbh_00001_.jpeg)
 
@@ -659,7 +655,7 @@ workflow:[workflow](../workflow/majicMIXreallistic3.json)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8fdc1cf6-e172-43e3-9012-91689395d80d/width=1556/ComfyUI_temp_mpket_00008_.jpeg)  
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6b1681a0-f9f9-42f5-babe-561de5aa233c/width=2049/ComfyUI_temp_sxnif_00001_.jpeg)
 
-2024-05-22_ 06:45  
+2024-05-22\_ 06:45  
 [majicMIX realistic 麦橘写实 - v4 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/43331/majicmix-realistic?modelVersionId=55911)  
 [Fetching Title#hn22](https://civitai.com/models/88207)  
 [chunmomoLora - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/43305?modelVersionId=47941)
@@ -672,13 +668,13 @@ state:success
 
 url: [Image posted by Bei3](https://civitai.com/images/1230942)
 
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/98163e11-ba1a-4842-892c-56238df03465/width=1024/01688-97117974-1girl,,%20 pubic%20 hair,%20 (looking%20 at%20 viewer,%20 light%20 smile,%20),%20 brown%20 hair,%20 brown%20 eyes,%20%20 long%20 hair,%20 hair_flying,%20 Fluttering%20 hair,%20 flying. jpeg)  
-2024-05-22_ 19:56
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/98163e11-ba1a-4842-892c-56238df03465/width=1024/01688-97117974-1girl,,%20 pubic%20 hair,%20 (looking%20 at%20 viewer,%20 light%20 smile,%20),%20 brown%20 hair,%20 brown%20 eyes,%20%20 long%20 hair,%20 hair*flying,%20 Fluttering%20 hair,%20 flying. jpeg)  
+2024-05-22* 19:56
 
 - [majicMIX realistic 麦橘写实 - v6 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/43331/majicmix-realistic?modelVersionId=94640)
 - [badhandv4 - badhandv4 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/16993/badhandv4?modelVersionId=20068)
 - [EasyNegative - EasyNegative | Stable Diffusion Embedding | Civitai](https://civitai.com/models/7808/easynegative?modelVersionId=9208)
-- [Detail Tweaker LoRA (细节调整LoRA) - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/58390/detail-tweaker-lora-lora?modelVersionId=62833)
+- [Detail Tweaker LoRA (细节调整 LoRA) - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/58390/detail-tweaker-lora-lora?modelVersionId=62833)
 
 workflow:[workflow](../workflow/majicMIXreallistic4.json)
 
@@ -718,7 +714,7 @@ state:success
 
 #chilloutmix
 
-url: [Image posted by AssWeCan\_2023](https://civitai.com/images/347646)
+url: [Image posted by AssWeCan_2023](https://civitai.com/images/347646)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c542c28-e491-472c-2299-f4de714ad700/width=1024/347646.jpeg)  
 结果: 没有奶子
@@ -729,11 +725,11 @@ url: [Image posted by AssWeCan\_2023](https://civitai.com/images/347646)
 lora:
 
 - [Shirtlift: a LORA for flashing tits - Shirtliftv1 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/6693/shirtlift-a-lora-for-flashing-tits?modelVersionId=7870)
-- [Pure Eros Face - PureErosFace\_v1 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/4514/pure-eros-face)
-- [koreanDollLikeness\_v10 - koreanDollLikeness\_v10 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/19356/koreandolllikenessv10)
-- [ShojoVibe少女感 - v1.1 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/13213?modelVersionId=16557)
+- [Pure Eros Face - PureErosFace_v1 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/4514/pure-eros-face)
+- [koreanDollLikeness_v10 - koreanDollLikeness_v10 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/19356/koreandolllikenessv10)
+- [ShojoVibe 少女感 - v1.1 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/13213?modelVersionId=16557)
 - [JapaneseDollLikeness (v1.5) - v1.5 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/28811/japanesedolllikeness-v15)
-- [Cute\_girl\_mix4 - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/14171/cutegirlmix4)
+- [Cute_girl_mix4 - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/14171/cutegirlmix4)
 
 workflow:[workflow](../workflow/chilloutmix1.json)
 
@@ -755,12 +751,12 @@ model:
 
 - checkpoint:
 - lora:
-	- [Cute\_girl\_mix4 - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/14171/cutegirlmix4)
-	- [JapaneseDollLikeness (v1.5) - v1.5 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/28811/japanesedolllikeness-v15)
-	- [KoreanDollLikeness (v2.0) - v2.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/26124/koreandolllikeness-v20)
-	- [ChilloutMixss - xss1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/10850/chilloutmixss)
-- emmbedded:[Pure Eros Face - PureErosFace\_v1 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/4514/pure-eros-face)  
-workflow:[workflow](../workflow/chilloutmix2.json)
+  - [Cute_girl_mix4 - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/14171/cutegirlmix4)
+  - [JapaneseDollLikeness (v1.5) - v1.5 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/28811/japanesedolllikeness-v15)
+  - [KoreanDollLikeness (v2.0) - v2.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/26124/koreandolllikeness-v20)
+  - [ChilloutMixss - xss1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/10850/chilloutmixss)
+- emmbedded:[Pure Eros Face - PureErosFace_v1 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/4514/pure-eros-face)  
+  workflow:[workflow](../workflow/chilloutmix2.json)
 
 ## Mygen
 
@@ -774,7 +770,7 @@ url: [Image posted by Pharo](https://civitai.com/images/9232495)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/442066a0-ca11-463c-b83d-27594e87b7d5/width=832/58143DBBDDD3AE53DC2CC5557521912B856EFD3B004776B5501986903BD3C73F.jpeg)
 
-2024-05-22_ 19:24
+2024-05-22\_ 19:24
 
 - [Detail Tweaker XL - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/122359/detail-tweaker-xl?modelVersionId=135867)
 - [All Disney Princess XL LoRA Model from Ralph Breaks the Internet - v2.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/212532/all-disney-princess-xl-lora-model-from-ralph-breaks-the-internet?modelVersionId=244808)
@@ -803,7 +799,7 @@ url: [Fetching Title#80du](https://civitai.com/images/11351158)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c531b7ee-d363-4e1a-86bd-2337e05fe474/width=832/F62E4A05B6EC67ACA5B9F89510D19D90BE764E12E858607A64FC81FBC5CD4FBE.jpeg)
 
-2024-05-22_ 20:29
+2024-05-22\_ 20:29
 
 - [Alice In Wonderland! Disney - SD 1.5 | XL PONY - by YeiyeiArt - Alice - XL PONY V. | Stable Diffusion LoRA | Civitai](https://civitai.com/models/35930/alice-in-wonderland-disney-sd-15-or-xl-pony-by-yeiyeiart?modelVersionId=388595)
 - [ExpressiveH (Hentai LoRa Style) エロアニメ - ExpressiveH | Stable Diffusion LoRA | Civitai](https://civitai.com/models/341353/expressiveh-hentai-lora-style?modelVersionId=382152)
@@ -831,10 +827,10 @@ url:[Fetching Title#txb4](https://civitai.com/images/2500154)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0566c98b-d84f-4c28-82ab-33d899833d9e/width=1024/00006-1727106929.jpeg)  
 model:
 
-- checkpoint:[MengX\_Mix\_Fantasy - V2 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/145378/mengxmixfantasy?modelVersionId=161716)
+- checkpoint:[MengX_Mix_Fantasy - V2 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/145378/mengxmixfantasy?modelVersionId=161716)
 - lora:[Perfect pussy - v0.1 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/10844/perfect-pussy?modelVersionId=61391)
 - emmbedded:[Deep Negative V1.x - V1 75T | Stable Diffusion Embedding | Civitai](https://civitai.com/models/4629/deep-negative-v1x?modelVersionId=5637)
-	- [badhandv4 - badhandv4 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/16993/badhandv4?modelVersionId=20068)
+  - [badhandv4 - badhandv4 | Stable Diffusion Embedding | Civitai](https://civitai.com/models/16993/badhandv4?modelVersionId=20068)
 - [ClearVAE(SD1.5) - v2.3 | Stable Diffusion VAE | Civitai](https://civitai.com/models/22354?modelVersionId=88156)
 
 workflow:[workflow](../workflow/mengxmixfantasy.json)

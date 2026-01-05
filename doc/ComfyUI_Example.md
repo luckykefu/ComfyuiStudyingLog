@@ -1,7 +1,3 @@
----
-created: '2024-06-08 '
----
-
 #
 
 state:
@@ -53,6 +49,7 @@ url:[civitai.com/images/16147037](https://civitai.com/images/16147037)
 ---
 
 #
+
 success
 state:
 #tamarinxl
@@ -270,14 +267,14 @@ workflow: [workflow](../workflow/absolutereality.json)
 
 url:[civitai.com/images/14975423](https://civitai.com/images/14975423)
 
-![]([AbsoluteReality](https://civitai.com/models/81458/absolutereality?modelVersionId=132760))
+![](<[AbsoluteReality](https://civitai.com/models/81458/absolutereality?modelVersionId=132760)>)
 
 ---
 
 #
 
 state:succ
-#PonyDiffusionV6 
+#PonyDiffusionV6
 workflow: [workflow](../workflow/PonyDiffusionV615.json)
 
 url:[civitai.com/images/15558952](https://civitai.com/images/15558952)
@@ -670,7 +667,7 @@ state:succ
 
 #NightVisionXL
 此模型无法去噪
-#ZavyChromaXL 
+#ZavyChromaXL
 workflow:[workflow](../workflow/NightVisionXL2.json)
 
 url:[civitai.com/images/15146203](https://civitai.com/images/15146203)
@@ -706,6 +703,7 @@ url:[civitai.com/images/14967787](https://civitai.com/images/14967787)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c7214426-efbe-4889-9df9-532bbc216ca2/width=832,quality=90/AE0D6F8C40FDDB0D11FE77135502D1D9D38C0450708EEF5484DE4E802BC928D6.jpeg)
 
 ---
+
 <div STYLE="page-break-after: always;"></div>
 
 #
@@ -1423,7 +1421,7 @@ url:[civitai.com/images/1874607](https://civitai.com/images/1874607)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ca49c93-e595-4697-983b-22ce745fbb10/width=832,quality=90/SSDXL_00676_.jpeg)  
 model:
 
-- [SDXL\_Niji\_Special Edition - SDXL\_Niji\_Beta | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/120765/sdxlnijispecial-edition?modelVersionId=131965)
+- [SDXL_Niji_Special Edition - SDXL_Niji_Beta | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/120765/sdxlnijispecial-edition?modelVersionId=131965)
 
 workflow: [workflow](../workflow/SDXLNiji.json)
 
@@ -1636,8 +1634,8 @@ model:
 - [civitai.com/models/213663/windy-enf?modelVersionId=240659](https://civitai.com/models/213663/windy-enf?modelVersionId=240659)
 - [civitai.com/models/106076/movie-poster?modelVersionId=154072](https://civitai.com/models/106076/movie-poster?modelVersionId=154072)
 - [civitai.com/models/109613/neon-environments?modelVersionId=150496](https://civitai.com/models/109613/neon-environments?modelVersionId=150496)  
-workflow:  
-workflow:[workflow](../workflow/animagineXL.json)
+  workflow:  
+  workflow:[workflow](../workflow/animagineXL.json)
 
 ## MyGEN
 
@@ -1656,8 +1654,8 @@ model:
 - [civitai.com/models/432483/sinozick-style-or-style-lora-or-pony?modelVersionId=481798](https://civitai.com/models/432483/sinozick-style-or-style-lora-or-pony?modelVersionId=481798)
 - [civitai.com/models/352581/vixons-pony-styles?modelVersionId=501154](https://civitai.com/models/352581/vixons-pony-styles?modelVersionId=501154)
 - [civitai.com/models/7808/easynegative?modelVersionId=9208](https://civitai.com/models/7808/easynegative?modelVersionId=9208)  
-workflow:  
-workflow:[workflow](../workflow/ponyFaetality.json)
+  workflow:  
+  workflow:[workflow](../workflow/ponyFaetality.json)
 
 ## MyGEN
 
@@ -1672,7 +1670,7 @@ url: [Image posted by Terry9993](https://civitai.com/images/565984)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afd989bd-e909-4dfa-cec7-28dbcebfaf00/width=1168,quality=90/04753-3815464547-letterboxed,%20male_focus,%20black_hair,%20weapon,%20solo,%20red_eyes,%20sandals,%201boy,%20japanese_clothes,%20sword,%20illustration.media,%20%20,actio.jpeg)  
 model:
 
-- [FaceBombMix - v1\_bakedVAE | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/7152/facebombmix)
+- [FaceBombMix - v1_bakedVAE | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/7152/facebombmix)
 - NijiExpressV 2
 
 workflow:[workflow](../workflow/facebombmix.json)
@@ -1741,8 +1739,8 @@ url: [Image posted by JunVer](https://civitai.com/images/1041528)
 model:
 
 - [majicMIX sombre 麦橘唯美 - v2.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/62778/majicmix-sombre?modelVersionId=75209)
-- [娜乌斯嘉nwsj\_realistic - vHD\_Nwsj\_Majic3.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/53601/nwsjrealistic)
-- [娜乌斯嘉nwsj\_realistic - PerfectNwsjMajic\_2.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/53601?modelVersionId=69646)
+- [娜乌斯嘉 nwsj_realistic - vHD_Nwsj_Majic3.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/53601/nwsjrealistic)
+- [娜乌斯嘉 nwsj_realistic - PerfectNwsjMajic_2.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/53601?modelVersionId=69646)
 
 workflow:[workflow](../workflow/majicMIXsombre2.json)
 
@@ -1773,9 +1771,9 @@ state:success
 
 #majicMIXreallistic
 
-url: [Image posted by chenchen\_cc](https://civitai.com/images/1541789)
+url: [Image posted by chenchen_cc](https://civitai.com/images/1541789)
 
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/052f1896-aa7c-41ce-ba9e-71364282e072/width=512, quality=90/00595-268394690-fantasy, 1 girl, detailed%20 face, full%20 body, dress,_, field,grassland,wind,cloud,flowers,rivers,tree, (Hayao%20 Miyazaki),. jpeg)  
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/052f1896-aa7c-41ce-ba9e-71364282e072/width=512, quality=90/00595-268394690-fantasy, 1 girl, detailed%20 face, full%20 body, dress,\_, field,grassland,wind,cloud,flowers,rivers,tree, (Hayao%20 Miyazaki),. jpeg)  
 model:
 
 - [majicMIX realistic 麦橘写实 - v7 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/43331?modelVersionId=176425)
@@ -1811,7 +1809,7 @@ state:success
 
 #primemix
 
-url: [Image posted by Prime\_Milo](https://civitai.com/images/748819)
+url: [Image posted by Prime_Milo](https://civitai.com/images/748819)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/99362516-1894-4006-b748-e920d8eb8ea2/width=1024,quality=90/01034-2722347034-((((dramatic))),%20(((gritty))),%20(((intense)))%20film%20poster%20featuring%20a%20young%20woman%20as%20the%20central%20character.%20She%20stands%20confidentl.jpeg)  
 model:
@@ -1851,7 +1849,7 @@ url: [Image posted by ppuog73328](https://civitai.com/images/382953)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ef426fae-f93d-4fbb-1861-59c130bcd200/width=512,quality=90/382953.jpeg)  
 model:
 
-- [Cute\_girl\_mix4 - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/14171/cutegirlmix4?modelVersionId=16677)
+- [Cute_girl_mix4 - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/14171/cutegirlmix4?modelVersionId=16677)
 - [也许是肚兜 belly wrap，A kind of Chinese ancient women's underwear - V0.2 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/16815/belly-wrapa-kind-of-chinese-ancient-womens-underwear?modelVersionId=26755)
 
 workflow:[workflow](../workflow/chilloutmix4.json)
@@ -1864,12 +1862,12 @@ state:ng
 
 #xxmix9realistic
 
-url: [Image posted by Zyx\_xx](https://civitai.com/images/873460)
+url: [Image posted by Zyx_xx](https://civitai.com/images/873460)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6d4e4215-3aaa-421a-91cf-897048714716/width=1024, quality=90/33646-2325710967-masterpiece,%20 best%20 quality,%201 girl,%20 (colorful), (finely%20 detailed%20 beautiful%20 eyes%20 and%20 detailed%20 face), cinematic%20 light. jpeg)  
 model:
 
-- [XXMix\_9realistic - v4.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/47274?modelVersionId=102222)
+- [XXMix_9realistic - v4.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/47274?modelVersionId=102222)
 
 workflow:[workflow](../workflow/xxmix9realistic1.json)
 
@@ -1928,28 +1926,30 @@ workflow: [workflow](../workflow/ComfyUI_Example_3.json)
 - 参考网址:[ControlNet 和 T2I-适配器示例 | ComfyUI 手册](https://www.comfyuidoc.com/zh/Examples/controlnet/)
 - 下载 controlnet 插件
 - 下载模型 [stablediffusionapi/anything-v5 at main](https://huggingface.co/stablediffusionapi/anything-v5/tree/main/safety_checker)
-- 下载 controlnet 涂鸦模型 [control\_v11p\_sd15\_scribble.pth lllyasviel/ControlNet-v1-1 at main](https://huggingface.co/lllyasviel/ControlNet-v1-1/blob/main/control_v11p_sd15_scribble.pth)
+- 下载 controlnet 涂鸦模型 [control_v11p_sd15_scribble.pth lllyasviel/ControlNet-v1-1 at main](https://huggingface.co/lllyasviel/ControlNet-v1-1/blob/main/control_v11p_sd15_scribble.pth)
 - vae:[vae-ft-mse-840000-ema-pruned.ckpt · stabilityai/sd-vae-ft-mse-original at main](https://huggingface.co/stabilityai/sd-vae-ft-mse-original/blob/main/vae-ft-mse-840000-ema-pruned.ckpt)
 
 ### 涂鸦 ControlNet
 
 - 加载工作流:
-    - 下载图片
-    - comfyui 里加载图片
-    - 复现成功
+
+  - 下载图片
+  - comfyui 里加载图片
+  - 复现成功
 
 - 使用 T 2 I- 适配器
-	- 将 Load ControlNet Model 改为 Load ControlNet Model (diff)
-	- 左侧连接 checkpoint 的 model
+  - 将 Load ControlNet Model 改为 Load ControlNet Model (diff)
+  - 左侧连接 checkpoint 的 model
 
 ### 姿势 Controlnet
 
 下载模型:  
-下载 controlnet 模型:[control\_v11p\_sd15\_openpose.pth · lllyasviel/ControlNet-v1-1 at main](https://huggingface.co/lllyasviel/ControlNet-v1-1/blob/main/control_v11p_sd15_openpose.pth)
+下载 controlnet 模型:[control_v11p_sd15_openpose.pth · lllyasviel/ControlNet-v1-1 at main](https://huggingface.co/lllyasviel/ControlNet-v1-1/blob/main/control_v11p_sd15_openpose.pth)
 
 ## MyGEN
 
 - https://civitai.com/posts/2672387
+
   - ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8dd29ae7-80de-4001-a5fc-db010d33c129/original=true/15a9cbf00e710eec6af07e18b647fd7ef576e4f6f1a98223bcb9a1aec1b6153c.jpeg)
   - ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ac5022c3-733e-4f06-a8b8-9bbae539974c/original=true/986a78506633172c411e39fd077997c512d3d48edc51defe36786c22a9adf96e.jpeg)
 
@@ -1967,7 +1967,7 @@ state:success
 
 #sdxlhk
 
-url: [Image posted by Lara\_De\_Martin](https://civitai.com/images/3053697)
+url: [Image posted by Lara_De_Martin](https://civitai.com/images/3053697)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1ce6970b-5618-48c3-a759-288f95fc6de3/width=760,quality=90/00130-106021724.jpeg)
 
@@ -1981,6 +1981,7 @@ workflow:[workflow](../workflow/SDXLHK.json)
 ## MyGEN
 
 #
+
 # 黑白，xl, 细节
 
 不像，但是他使用 sed, 不收敛，可接受
@@ -2013,7 +2014,7 @@ workflow: [workflow](../workflow/GhostMix.json)
 
 #GhostMix
 
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3ba53358-aa09-4e2b-883b-ecc1564a2900/width=1024,quality=90/22759-3696906123-(masterpiece,%20top%20quality,%20best%20quality,%20official%20art,%20beautiful%20and%20aesthetic_1.2),%20(1girl_1.3),%20extreme%20detailed,colorful,high.jpeg)
+![](<https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3ba53358-aa09-4e2b-883b-ecc1564a2900/width=1024,quality=90/22759-3696906123-(masterpiece,%20top%20quality,%20best%20quality,%20official%20art,%20beautiful%20and%20aesthetic_1.2),%20(1girl_1.3),%20extreme%20detailed,colorful,high.jpeg>)
 
 model and lora:
 
@@ -2046,15 +2047,15 @@ url: [Image posted by kefu51252770](https://civitai.com/images/12172952)
 workflow:
 
 - 主模型: 麦橘写真, lora:nikke [0516 nikke Isabel（pony and 1.5） - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/433115/0516-nikke-isabel?modelVersionId=482481)  
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8a42467f-a6d6-4c2f-8011-68940b810eb8/original=true/ComfyUI_00001_.jpeg)  
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b2581572-86b9-4414-8b50-9fccafdd506b/original=true/d55bbca18dbeda21aa44ef44fc32ebd9c163b1cc799d682d5057eb0243929b20.jpeg)
+  ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8a42467f-a6d6-4c2f-8011-68940b810eb8/original=true/ComfyUI_00001_.jpeg)  
+  ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b2581572-86b9-4414-8b50-9fccafdd506b/original=true/d55bbca18dbeda21aa44ef44fc32ebd9c163b1cc799d682d5057eb0243929b20.jpeg)
 - 由此可见，我的本地和云端 gpu 好歹姿势是一样的，虽然生成的风格差别有点大，但是我生成的两个和 C 站作者差别也太大了。
 - 经过浏览，作者的这个穿搭应该是启用了网站的一个 lora, 我忘记名字了
 - 我用 C 站生成的图和作者的差不多，然后看到我 C 站使用的 vae 是 kl-f 8-anime 2 vae ，而我使用的是 vae-ft-mse-840000-ema-pruned 所以，这个问题解决了，包括一开始就找不到原因的案例一也差不多可以肯定就是这个原因了。
 
 ## C 站生成
 
-2024-05-20_ 19:26[Image post by kefu51252770 | Civitai](https://civitai.com/posts/2883240)
+2024-05-20\_ 19:26[Image post by kefu51252770 | Civitai](https://civitai.com/posts/2883240)
 
 - ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/17c3c5f5-565b-4522-951d-131d0e4af716/width=700/ComfyUI_00006_.jpeg)
 
@@ -2063,19 +2064,17 @@ workflow:
 workflow: [workflow](../workflow/GhostMix2.json)
 
 - 模型:
-	- [Resident Evil Latex Costume 1 - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/445434/resident-evil-latex-costume-1?modelVersionId=496017)
-	- [AniMesh - Animesh-Pruned V2.2 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/90642/animesh?modelVersionId=224732)
-	- [EnvyBetterHands LoCon - beta2 | Stable Diffusion LyCORIS | Civitai](https://civitai.com/models/47085/envybetterhands-locon?modelVersionId=55199)
-	- [kl-f8-anime2 VAE - kl-f8-anime2 VAE | Stable Diffusion VAE | Civitai](https://civitai.com/models/23906/kl-f8-anime2-vae?modelVersionId=28569)
-- 生成
-	- 2024-05-21_ 19:55
-	- [Image post by kefu51252770 | Civitai](https://civitai.com/posts/2906142)  
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/08fbc675-4990-4413-b771-2630006c05f5/width=2048/ComfyUI_Example_4_00003_.jpeg)  
-_发现一个问题_  
-我原封不动复制 c 站的参数下来在我的电脑上使用，出来的图片和作者不一样。  
-为此，我又在网上开启一个云 gpu 来再次生成这个参数的图片，  
-但是结果并不是和作者的一样而是和我的一样，所以, 我认为，这可能是由于作者的配置问题引起的，  
-比如能够影响图片的生成的 embedding ，lora, vae 等等没有给出的模型，
+  - [Resident Evil Latex Costume 1 - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/445434/resident-evil-latex-costume-1?modelVersionId=496017)
+  - [AniMesh - Animesh-Pruned V2.2 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/90642/animesh?modelVersionId=224732)
+  - [EnvyBetterHands LoCon - beta2 | Stable Diffusion LyCORIS | Civitai](https://civitai.com/models/47085/envybetterhands-locon?modelVersionId=55199)
+  - [kl-f8-anime2 VAE - kl-f8-anime2 VAE | Stable Diffusion VAE | Civitai](https://civitai.com/models/23906/kl-f8-anime2-vae?modelVersionId=28569)
+- 生成 - 2024-05-21* 19:55 - [Image post by kefu51252770 | Civitai](https://civitai.com/posts/2906142)  
+  ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/08fbc675-4990-4413-b771-2630006c05f5/width=2048/ComfyUI_Example_4_00003*.jpeg)  
+  _发现一个问题_  
+  我原封不动复制 c 站的参数下来在我的电脑上使用，出来的图片和作者不一样。  
+  为此，我又在网上开启一个云 gpu 来再次生成这个参数的图片，  
+  但是结果并不是和作者的一样而是和我的一样，所以, 我认为，这可能是由于作者的配置问题引起的，  
+  比如能够影响图片的生成的 embedding ，lora, vae 等等没有给出的模型，
 
 # 沙发，女孩，二郎腿
 
@@ -2095,7 +2094,7 @@ workflow:[workflow](../workflow/majicMIXreallistic.json)
 
 ## MyGEN
 
-2024-05-20_ 20:04[Image post by kefu51252770 | Civitai](https://civitai.com/posts/2883861)
+2024-05-20\_ 20:04[Image post by kefu51252770 | Civitai](https://civitai.com/posts/2883861)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/502b2f01-f9d4-48f8-a26f-0fb1b218c943/width=1556,quality=90/ComfyUI_temp_aupsy_00001_.jpeg)![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f6017b07-07ad-4269-8848-02b5359e42f9/width=1556,quality=90/ComfyUI_temp_aupsy_00006_.jpeg)
 
@@ -2114,14 +2113,14 @@ url: [Image posted by ChenL666](https://civitai.com/images/753660)
 - 细节，也就是画面颗粒感，
 - 色调
 - 眼神  
-好，开始  
-模型:
+  好，开始  
+  模型:
 - checkpoint:majicMIX realistic [majicMIX realistic 麦橘写实 - v4 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/43331/majicmix-realistic?modelVersionId=55911)
 - lora: Asian girls face [Asian girls face - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/62760/asian-girls-face?modelVersionId=67325)
 
 workflow: [workflow](../workflow/majicMIXreallistic2.json)
 
-- _画面皮肤有大疙瘩，降低 lora_ 比例试试 _
+- _画面皮肤有大疙瘩，降低 lora_ 比例试试 \_
 - _分块 vae 解码 _ 和编码 _ 这个类似分割放大_
 - _锐化放大放在最后输出图片的地方_
 - 脸部已经快接近效果了，但是手部皮肤会有皱纹
@@ -2139,8 +2138,8 @@ workflow: [workflow](../workflow/majicMIXreallistic2.json)
 - 现在是细节和眼神处理得还行，最后就是色调，复刻原图的色调实在太迷人了，虽然我也可以后期，但是如果可以直接就输出那样的图，为什么不呢，他的口红简直都可以接广告了，
 - 色调的问题在加个 lora 还是换个模型，还是什么办法，今天就到这里了，
 - _vae 解码模型也会对生成的图片造成影响, 那种碎片错误的图片_  
-2024-05-21_ 23:15  
-_cfg 如果设置太高会出现油画那样的失真_
+  2024-05-21* 23:15  
+  \_cfg 如果设置太高会出现油画那样的失真*
 
 # 女孩，白色短发，可爱
 
@@ -2180,7 +2179,7 @@ url: [Fetching Title#l6u4](https://civitai.com/images/12118185)
 - [SDXL VAE - SDXL-VAE | Stable Diffusion VAE | Civitai](https://civitai.com/models/296576/sdxl-vae?modelVersionId=333245)
 - [TWbabeSDXL - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/151603/twbabesdxl?modelVersionId=169536)
 - [Detail Tweaker XL - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/122359/detail-tweaker-xl?modelVersionId=135867)
-- [TTPLanet\_SDXL\_Controlnet\_Tile\_Realistic - v2.0\_fp16 | Stable Diffusion Controlnet | Civitai](https://civitai.com/models/330313/ttplanetsdxlcontrolnettilerealistic)
+- [TTPLanet_SDXL_Controlnet_Tile_Realistic - v2.0_fp16 | Stable Diffusion Controlnet | Civitai](https://civitai.com/models/330313/ttplanetsdxlcontrolnettilerealistic)
 - checkpoint: SDXL 升级版
 - lora: detail tweaker xl, perfext eyes xl
 
@@ -2189,7 +2188,7 @@ workflow:[workflow](../workflow/ZavyChromaXL.json)
 ## MyGEN
 
 - 七和八案例是要确保生成这样精细的画面不是偶然而是能够出工作流的  
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3f5fc81d-8373-498a-b96c-390be1e471e2/width=2048/b85ab63bdb3a60eb791f48ceb7dd627fbc68eb79ba8d13d0949e9e17aa0e4b66.jpeg)
+  ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3f5fc81d-8373-498a-b96c-390be1e471e2/width=2048/b85ab63bdb3a60eb791f48ceb7dd627fbc68eb79ba8d13d0949e9e17aa0e4b66.jpeg)
 
 ### 总结
 
@@ -2217,7 +2216,7 @@ url: [Image posted by kefu51252770](https://civitai.com/images/12299078)
 model:
 
 - [EasyNegative - EasyNegative | Stable Diffusion Embedding | Civitai](https://civitai.com/models/7808/easynegative?modelVersionId=9208)
-- [Cute\_girl\_mix4 - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/14171/cutegirlmix4?modelVersionId=16677)
+- [Cute_girl_mix4 - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/14171/cutegirlmix4?modelVersionId=16677)
 - [majicMIX sombre 麦橘唯美 - v2.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/62778/majicmix-sombre?modelVersionId=75209)
 - [ClearVAE(SD1.5) - v2.3 | Stable Diffusion VAE | Civitai](https://civitai.com/models/22354/clearvaesd15?modelVersionId=88156)
 
@@ -2237,7 +2236,7 @@ url:[Image posted by kefu51252770](https://civitai.com/images/12298147)
 model:
 
 - [ClearVAE(SD1.5) - v2.3 | Stable Diffusion VAE | Civitai](https://civitai.com/models/22354/clearvaesd15?modelVersionId=88156)
-- [Eye - LoRa - Eyes\_V1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/5529/eye-lora?modelVersionId=6433)
+- [Eye - LoRa - Eyes_V1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/5529/eye-lora?modelVersionId=6433)
 - [Fetching Title#uahg](https://civitai.com/models/62778/majicmix-sombre?modelVersionId=75209)
 
 workflow:[workflow](../workflow/majicMIXsombre1.json)
@@ -2256,7 +2255,7 @@ url: [Image posted by Stellaaa](https://civitai.com/images/9679258)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4b4ad911-c1dd-46fd-b5ee-7057028ddd07/width=1408/2024-04-06-021053_ponyDiffusionV6XL_v6StartWithThisOne_3673610310_euler_ancestral.karras.25_cfg7.0_USX_FD.jpeg)  
 不能放大重绘, 缺少 controlnet xl tile 模型  
-2024-05-22_ 05:34
+2024-05-22\_ 05:34
 
 - [ExpressiveH (Hentai LoRa Style) エロアニメ - ExpressiveH | Stable Diffusion LoRA | Civitai](https://civitai.com/models/341353/expressiveh-hentai-lora-style?modelVersionId=382152)
 - [Pony Diffusion V6 XL - V6 (start with this one) | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/257749/pony-diffusion-v6-xl?modelVersionId=290640)
@@ -2278,7 +2277,7 @@ url: [Image posted by moxie1776](https://civitai.com/images/7554959)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9dcfb90c-32e1-443b-b283-c1861e6f4d2e/width=832/00406-2024-03-06_.jpeg)  
 缺 tile 模型  
-2024-05-22_ 06:43[Moxie Diffusion XL - v1.32 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/260460/moxie-diffusion-xl?modelVersionId=375981)  
+2024-05-22\_ 06:43[Moxie Diffusion XL - v1.32 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/260460/moxie-diffusion-xl?modelVersionId=375981)  
 [Linquivera - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/249837/linquivera?modelVersionId=281935)
 
 workflow:[workflow](../workflow/moxiediffusionXL.json)
@@ -2302,15 +2301,15 @@ model:
 - [OC - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/43227/oc)
 - [LowRA-OFFSET NOISE - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/221845/lowra-offset-noise)
 - [anxiang | 暗香 - anxiang | Stable Diffusion LoRA | Civitai](https://civitai.com/models/94087/anxiang-or)
-- [XXMix\_9realistic - v4.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/47274/xxmix9realistic?modelVersionId=102222)
+- [XXMix_9realistic - v4.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/47274/xxmix9realistic?modelVersionId=102222)
 
 workflow:[workflow](../workflow/xxmix9realistic.json)
 
 ## MyGEN
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9b138de2-f9e7-4172-a48c-9c5e659ba45f/width=2048/aed030e9d7bbf9c8b610282c771dfd25035af234010005e4f0f037be0eeec7b3.jpeg)  
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f99acf0f-0db5-4a20-8d8e-74a114799cb8/width=2048/bc8122a767fe824f1be7d5f5c50828b118ba294d00fc6ebfa9b57e573c7b53cb.jpeg)2024-05-22_ 07:29  
-[XXMix\_9realistic - v4.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/47274/xxmix9realistic?modelVersionId=102222)  
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f99acf0f-0db5-4a20-8d8e-74a114799cb8/width=2048/bc8122a767fe824f1be7d5f5c50828b118ba294d00fc6ebfa9b57e573c7b53cb.jpeg)2024-05-22\_ 07:29  
+[XXMix_9realistic - v4.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/47274/xxmix9realistic?modelVersionId=102222)  
 [anxiang | 暗香 - anxiang | Stable Diffusion LoRA | Civitai](https://civitai.com/models/94087/anxiang-or?modelVersionId=120452)  
 [LowRA-OFFSET NOISE - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/221845/lowra-offset-noise)  
 [OC - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/43227/oc)  
@@ -2322,7 +2321,7 @@ state:ng
 
 #PonyDiffusionV6
 
-[Image posted by Yuki\_Hotaru](https://civitai.com/images/7302052)
+[Image posted by Yuki_Hotaru](https://civitai.com/images/7302052)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dd11fd62-e96c-49fa-8517-1920f9572b98/width=768/242.jpeg)
 
@@ -2344,7 +2343,7 @@ workflow: [workflow](../workflow/PonyDiffusionV66.json)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9793bcb9-e092-4505-9c46-24b5ca573147/width=2049/c0d2675c5321e35531cdad068ab974be0b2ee7544738e97d73d0f76acdbb3c45.jpeg)  
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c3eab3c1-1638-4e26-864f-6060f15406c6/width=2049/e83e507b9cda21e14c34a6f93c10b11b941d7a8c32bda52677197b94fd69c525.jpeg)  
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6ae8518c-39bc-4e4a-8b4c-b16b168737a2/width=2049/f57e1d4464327e19e6974cd2dfcc0254349111d24514435ec482d9973c50db82.jpeg)  
-2024-05-22_ 08:05
+2024-05-22\_ 08:05
 
 # 古风，谁说女子不如男
 
@@ -2357,9 +2356,9 @@ workflow: [workflow](../workflow/Redbluefantasy.json)
 [Image posted by ChaosOrchestrator](https://civitai.com/images/7021498)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/38bca0b7-8eee-4e9a-bfa4-8167732c70aa/width=1024/00278-2945277364.jpeg)  
-2024-05-22_ 09:27  
+2024-05-22\_ 09:27  
 [绪儿-红蓝幻想 Red-blue fantasy - v2.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/313098/red-blue-fantasy?modelVersionId=351315)  
-[Sword Sakura剣桜(Photographic style) - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/282753/sword-sakuraphotographic-style?modelVersionId=318252)  
+[Sword Sakura 剣桜(Photographic style) - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/282753/sword-sakuraphotographic-style?modelVersionId=318252)  
 [Unlimited Blade Works (UBW) | Weapon LyCORIS \[Axe, Bows, DualWielding, Fan, Katana, Knife, Kunai, Lightsaber, MasterSword, Planted Swords, Scythe, Sheathed, Shield, Spear, Staff, Tomahawk, Trident, Unsheathing, Warhammer, Whip\] - v 2.01 Katana One Hand | Stable Diffusion LyCORIS | Civitai](https://civitai.com/models/69323/unlimited-blade-works-ubw-or-weapon-lycoris-axe-bows-dualwielding-fan-katana-knife-kunai-lightsaber-mastersword-planted-swords-scythe-sheathed-shield-spear-staff-tomahawk-trident-unsheathing-warhammer-whip?modelVersionId=223864)  
 [EasyNegative - EasyNegative | Stable Diffusion Embedding | Civitai](https://civitai.com/models/7808/easynegative?modelVersionId=9208)
 
@@ -2391,7 +2390,7 @@ state:success
 [Fetching Title#3ub3](https://civitai.com/images/9078035)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ab2daea7-2269-436b-acad-e6c73ee8af83/width=720/00115-4033382240.jpeg)  
-[Site Unreachable](https://civitai.com/models/125907/realcartoon-xl?modelVersionId=254091) 2024-05-22_ 17:55
+[Site Unreachable](https://civitai.com/models/125907/realcartoon-xl?modelVersionId=254091) 2024-05-22\_ 17:55
 
 model:
 
@@ -2430,7 +2429,7 @@ sucess
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/989e1f53-0164-4951-a5f5-127c6eed5f1d/width=4096/00005-1036743912_US4.jpeg)  
 无模型  
-2024-05-22_ 19:50
+2024-05-22\_ 19:50
 
 - [Whispers of Zen - v1.0 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/378524/whispers-of-zen?modelVersionId=422644)
 - [Rin Tohsaka (Fate/Stay) - Lora Pony | SD 1.5 - SD 1.5 | Stable Diffusion LoRA | Civitai](https://civitai.com/models/291308/rin-tohsaka-fatestay-lora-pony-or-sd-15?modelVersionId=327473)
@@ -2448,7 +2447,7 @@ workflow:[workflow](../workflow/blazingDrive.json)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fe681a42-a29b-4264-bc29-13ffcfa34d59/width=1024/00380-3515475520.jpeg)  
 [Page Not Found](https://civitai.com/posts/2870217)  
-2024-05-22_ 20:26
+2024-05-22\_ 20:26
 
 - [majicMIX reverie 麦橘梦幻 - v1.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/65055/majicmix-reverie?modelVersionId=69687)
 - [Abstract Dreamwave - GPTS4 Full | Stable Diffusion LyCORIS | Civitai](https://civitai.com/models/62293/abstract-dreamwave?modelVersionId=71264)
@@ -2486,7 +2485,7 @@ url: [Image posted by DucHaiten](https://civitai.com/images/11369655)
 
 model:
 
-- [DucHaiten-Pony-XL (no-score) - Pony-no\_score\_v3.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/376450/duchaiten-pony-xl-no-score?modelVersionId=481945)
+- [DucHaiten-Pony-XL (no-score) - Pony-no_score_v3.0 | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/376450/duchaiten-pony-xl-no-score?modelVersionId=481945)
 
 workflow:[workflow](../workflow/duchaitenponyXL.json)
 
@@ -2504,7 +2503,7 @@ workflow: [workflow](../workflow/Niji3dstyle.json)
 
 #Dreamshaper
 
-url: [Image posted by Mazz\_W](https://civitai.com/images/718471)
+url: [Image posted by Mazz_W](https://civitai.com/images/718471)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4c0ccb9b-8426-4e33-b4fe-bbca293efc32/original=true/Mazz_Earth_1440.jpeg)  
 这看起来难度有点大啊  
@@ -2530,7 +2529,7 @@ url: [Image posted by Mazz\_W](https://civitai.com/images/718471)
 - 模型合并:[模型合并示例 | ComfyUI 手册](https://www.comfyuidoc.com/zh/Examples/model_merging/)
 - 图像放大:[图像放大节点（Upscale Image） | ComfyUI 手册](https://www.comfyuidoc.com/zh/Core%20Nodes/Image/upscaling/UpscaleImage.html)
 - controlnet:[ControlNet 和 T2I-适配器示例 | ComfyUI 手册](https://www.comfyuidoc.com/zh/Examples/controlnet/)
-- 两步 Txt 2 Img（高分辨率修复）示例:[两步Txt2Img（高分辨率修复）示例 | ComfyUI 手册](https://www.comfyuidoc.com/zh/Examples/2_pass_txt2img/)
+- 两步 Txt 2 Img（高分辨率修复）示例:[两步 Txt2Img（高分辨率修复）示例 | ComfyUI 手册](https://www.comfyuidoc.com/zh/Examples/2_pass_txt2img/)
 - 获取图片尺寸:getimagesize
 - 图片反推提示词:[GitHub - pythongosssss/ComfyUI-WD14-Tagger: A ComfyUI extension allowing for the interrogation of booru tags from images.](https://github.com/pythongosssss/ComfyUI-WD14-Tagger)
 - 图片缩放:resize
@@ -2544,17 +2543,19 @@ url: [Image posted by Mazz\_W](https://civitai.com/images/718471)
 
 - ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a730da5b-469a-4b73-9480-3e54775ab9f2/original=true/7f74b6c194e373257d6c0e44d7f1765fe8019de9d840c19a9a046f92025e43e0.jpeg)
 - 这是 2 d 风格，换个模型或者采用模型合并添加 3 d 风格进去
+
 ```bash
-Error occurred when executing KSampler: 
+Error occurred when executing KSampler:
 'ModuleList' object has no attribute '1'
 'ModuleList' object has no attribute '1'
 ```
+
 - [Image post by kefu51252770 | Civitai](https://civitai.com/posts/2732781)
 - ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ac0d7ecd-c0d0-4d32-a9e4-ca246cbf2b91/width=700/99ff24db51f11766c727387ee98a6ade0bbbeb075828166a3986e56196930462.jpeg)
 - 可以说这是三天里生成效果 ，最接近的，虽然烟雾的处理，眼睛，等等都还有差距，但是这可是 ai, 能接受，  
-总结: 一个初学者决定复刻这个东西，真是折磨，可以从我生成的图片可看到，从最初的姿势动作，也就是 controlnet 都不会用，到最后，图片风格，内容都比较接近，算是入门了吧。  
-为了节省计算资源我还没有执行放大步骤，如果放大的话，效果应该会更好一点的。  
-模型:
+  总结: 一个初学者决定复刻这个东西，真是折磨，可以从我生成的图片可看到，从最初的姿势动作，也就是 controlnet 都不会用，到最后，图片风格，内容都比较接近，算是入门了吧。  
+  为了节省计算资源我还没有执行放大步骤，如果放大的话，效果应该会更好一点的。  
+  模型:
 - [Fetching Title#hr21](https://civitai.com/models/46898/niji3dstyle)
 - [Fetching Title#i988](https://civitai.com/images/808323)
 - [Fetching Title#4hpw](https://civitai.com/models/4384/dreamshaper)
